@@ -1,0 +1,24 @@
+.menuContainer {
+    border: 1px solid rgb(201, 19, 19);
+    background-color: rgb(48, 111, 226);
+    float: center;
+
+}
+
+li {
+    display: inline-block;
+    padding: 10px 20px;
+    border-right: 2px solid rgb(4, 57, 231);
+    text-align: center;
+    width: 120px;
+
+}
+
+li:hover {
+    font-weight: bold;
+    color: red;
+}
+
+ul {
+    margin-left: 35%;
+}
